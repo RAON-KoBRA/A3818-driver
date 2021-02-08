@@ -1,0 +1,1 @@
+cmd_/home/kobradaq/packages/custom_drivers/A3818Drv-1.6.3_kernel_ver_5.8.0-40_dependency/Module.symvers := sed 's/ko$$/o/' /home/kobradaq/packages/custom_drivers/A3818Drv-1.6.3_kernel_ver_5.8.0-40_dependency/modules.order | scripts/mod/modpost  -a   -o /home/kobradaq/packages/custom_drivers/A3818Drv-1.6.3_kernel_ver_5.8.0-40_dependency/Module.symvers -e -i Module.symvers   -T -

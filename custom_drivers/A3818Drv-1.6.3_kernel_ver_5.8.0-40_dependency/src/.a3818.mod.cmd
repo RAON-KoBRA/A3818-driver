@@ -1,0 +1,1 @@
+cmd_/home/kobradaq/packages/custom_drivers/A3818Drv-1.6.3_kernel_ver_5.8.0-40_dependency/src/a3818.mod := { echo  /home/kobradaq/packages/custom_drivers/A3818Drv-1.6.3_kernel_ver_5.8.0-40_dependency/src/a3818.o; echo; } > /home/kobradaq/packages/custom_drivers/A3818Drv-1.6.3_kernel_ver_5.8.0-40_dependency/src/a3818.mod
